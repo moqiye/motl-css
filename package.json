@@ -1,0 +1,24 @@
+{
+  "name": "motl-css",
+  "version": "1.0.0",
+  "description": "css utils css",
+  "main": "index.css",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moqiye/motl-css.git"
+  },
+  "keywords": [
+    "css",
+    "utils",
+    "class"
+  ],
+  "author": "moqiye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moqiye/motl-css/issues"
+  },
+  "homepage": "https://github.com/moqiye/motl-css#readme"
+}
